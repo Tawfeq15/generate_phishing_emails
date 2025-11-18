@@ -39,9 +39,7 @@ env/
 # Project Specific
 Generated Emails/
 *.zip
-*.csv
-*.txt
-phishing_emails_*.zip
+
 
 # Environment variables
 .env
